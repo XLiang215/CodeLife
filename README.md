@@ -4,7 +4,7 @@
 在这里记录一下我的学习历程，也作为知识遗忘后一个查找的地方。
 
 🕸Web
-- [http](blob/master/Web/ajax.md)
+- [Ajax](Web/ajax.md)
 
 🍎iOS
 
